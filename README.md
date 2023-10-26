@@ -4,6 +4,8 @@ Optics knowledge related to biomedical optics imaging.
 
 和生物医学成像相关的光学知识框架. 
 
+光学的知识浩如烟海, 渊博精深. 
+
 ## Research Interests:
 
 1. Optical Coherence Tomography, 光学相干层析术
